@@ -1,5 +1,5 @@
 # Sandali Fernando
-
+![My Photo](myphoto.jpg)
 ## Personal Details
 Name in full  : Warnakulasuriya Sandali Crishenshiya Fernando.
 
